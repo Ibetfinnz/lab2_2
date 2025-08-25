@@ -1,2 +1,3 @@
 "Content for file 2" 
 "Additional content for file 2" 
+"Change 1 for file 2" 
